@@ -14,6 +14,7 @@ dsh plugin --profile <profile> add github:andrepontesmelo/dsh-suite
 |---|---|
 | [`dsh-suite`](https://github.com/andrepontesmelo/dsh-suite) | The bundle entrypoint: 9 agent skills + plugin wiring, single install |
 | [`dsh-model-router`](https://github.com/andrepontesmelo/dsh-model-router) | Virtual model ids routed over real providers — failover, round-robin, sleep windows |
+| [`moving-target`](https://github.com/andrepontesmelo/moving-target) | Cold-start context: distills your first prompts into one goal paragraph for every new session |
 | [`archloop`](https://github.com/andrepontesmelo/archloop) | Overnight architecture-improvement loop driver for git repos |
 | [`hkrc`](https://github.com/andrepontesmelo/hkrc) | Blocker recovery controller: discovers, runs, and watches Kanban repair work |
 
