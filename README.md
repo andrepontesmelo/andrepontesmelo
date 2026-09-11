@@ -8,7 +8,7 @@ I build the **DSH productivity suite** — plugins and agent skills for the [Dee
 dsh plugin --profile <profile> add github:andrepontesmelo/dsh-suite
 ```
 
-That single command installs the bundle, pulls both plugin dependencies (`dsh-model-router`, `deep-horizon`), and points DSH skill discovery at the nine bundled skills.
+That single command installs the bundle, pulls both plugin dependencies (`@andrepontesmelo/dsh-model-router`, `deep-horizon`), and points DSH skill discovery at the nine bundled skills.
 
 | Repo | Type | What it does |
 |---|---|---|
