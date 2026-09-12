@@ -1,4 +1,4 @@
-I build the **DSH productivity suite** — plugins and agent skills for the [DeepSeek Harness](https://www.npmjs.com/package/@deepseek-ai/dsh) (DSH), an agentic coding harness. Everything here follows one rule: *the shortest working diff wins*.
+Software Engineer — Applied AI & LLM Infrastructure. 14 years of production systems (ex-AWS S3), building agent tooling in public: the DSH plugin suite, model routing, autonomous orchestration. Insurance software background (Segfy, Cotak). One rule underneath everything: *the shortest working diff wins*.
 
 ## The suite
 
@@ -23,10 +23,4 @@ Also public, kept out of the bundle: [`moving-target`](https://github.com/andrep
 
 ## How I work
 
-- Vertical slices, sequential implementers, mandatory review loops (`strong-orchestrator`)
-- Lazy-senior-dev output style: delete over add, boring over clever (`ponytail` family)
-- Every published repo passes the same gate: README review · tests green · secrets scan · MIT
-
-## Elsewhere
-
-- Forgejo (self-hosted): full development history before public export
+I design agent orchestration and self-improvement loops that keep code clean, scalable, and maintainable in the AI era — context and memory management, multi-agent workflows, intelligent model routing — built and tested in public here, and run daily in my own workspace.
